@@ -1,0 +1,11 @@
+*.code-workspace
+bk_index.*
+buf
+log
+node_modules
+json
+tmp
+.vscode
+coverage
+typescript
+json_test

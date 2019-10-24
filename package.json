@@ -1,0 +1,41 @@
+{
+  "name": "tosmm-rf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test-sl": "jest --silent --env=node",
+    "test": "jest --coverage --env=node",
+    "lint": "eslint index.js lib/**/*.js test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WayneChang65/tosmm-rf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WayneChang65/tosmm-rf/issues"
+  },
+  "homepage": "https://github.com/WayneChang65/tosmm-rf#readme",
+  "dependencies": {
+    "@waynechang65/baha-crawler": "^2.0.5",
+    "@waynechang65/fml-consolelog": "^1.1.0",
+    "@waynechang65/ptt-crawler": "^2.0.5",
+    "bitly": "^6.1.0",
+    "emailjs": "^2.2.0",
+    "express": "^4.17.1",
+    "gm": "^1.23.1",
+    "google-spreadsheet": "^2.0.7",
+    "json5": "^2.1.0",
+    "linebot": "https://github.com/WayneChang65/linebot/tarball/1.5.1-tosmm-use",
+    "mailjs": "^0.1.18",
+    "node-datetime": "^2.1.2",
+    "nodejieba": "^2.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "jest": "^24.8.0"
+  }
+}
