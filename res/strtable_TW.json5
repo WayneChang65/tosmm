@@ -52,8 +52,8 @@ https://www.facebook.com/TosMM.Linebot/",
 // 這是 usr_mgr.js 所使用的字串資料         //
 //++++++++++++++++++++++++++++++++++++++++//
     "um_json" : "JSON",
-    "um_wdbok" : "Write tos_group_db.json SUCCESS.",
-    "um_wanadbok" : "Write tos_ana_db.json SUCCESS.",
+    "um_wdbok" : "Write group_db.json SUCCESS.",
+    "um_wanadbok" : "Write user_db.json SUCCESS.",
     "um_setok" : "管理者設定-成功！",
     "um_setfail" : "管理者設定-失敗！",
     "um_setgok" : "群組資訊設定-成功！",

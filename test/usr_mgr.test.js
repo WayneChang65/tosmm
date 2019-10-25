@@ -1,7 +1,7 @@
 'use strict';
 
 const usr_mgr = require('../lib/usr_mgr.js')
-	.init('../test/db/tos_group_db.json', './test/db/tos_group_db.json');
+	.init('../test/db/group_db.json', './test/db/group_db.json');
 
 const fake_event = {
 	source: {
@@ -25,13 +25,13 @@ describe('【Basic functions】', () => {
 		expect(async () => {
 			let groupDB;
 
-			usr_mgr.init('../test/db/tos_group_db2.json', './test/db/tos_group_db2.json');
+			usr_mgr.init('../test/db/group_db2.json', './test/db/group_db2.json');
 			groupDB = usr_mgr.getGDB();
 			expect(groupDB.length).toEqual(4);
 			expect(groupDB[0].gname).toMatch('小妹測試空間11111');
 			expect(groupDB[1].gname).toMatch('小妹測試空間22222');
 				
-			usr_mgr.init('../test/db/tos_group_db.json', './test/db/tos_group_db.json');
+			usr_mgr.init('../test/db/group_db.json', './test/db/group_db.json');
 			groupDB = usr_mgr.getGDB();
 			expect(groupDB.length).toEqual(5);
 			expect(groupDB[0].gname).toMatch('小妹測試空間456');
