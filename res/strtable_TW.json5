@@ -141,9 +141,9 @@ https://www.facebook.com/TosMM.Linebot/",
 //++++++++++++++++++++++++++++++++++++++++//
 // 這是 crawler.js 所使用的字串資料         //
 //++++++++++++++++++++++++++++++++++++++++//
-    "crl_bitly" : "BITLY",
-    "crl_bitlyerror" : "bitly.shorten ERROR!",
-    "crl_bitlylimited" : "1000 LIMITED or others.",
+    "crl_bitly" : "U-BITLY",
+    "crl_bitlyerror" : "shorten function ERROR!",
+    "crl_bitlylimited" : "Quota is LIMITED or ...",
 
 //++++++++++++++++++++++++++++++++++++++++//
 // 這是 crawler_handler.js 所使用的字串資料 //
