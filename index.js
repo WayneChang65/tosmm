@@ -68,7 +68,8 @@ function chekEnvVariables() {
 		// e.g.TOSMM_BITLY_KEY="652dxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 		env.TOSMM_BITLY_KEY && env.TOSMM_BITLY_1_KEY &&
 		env.TOSMM_BITLY_2_KEY && env.TOSMM_BITLY_3_KEY &&
-		env.TOSMM_BITLY_4_KEY &&
+		env.TOSMM_BITLY_4_KEY && env.TOSMM_BITLY_5_KEY &&
+		env.TOSMM_BITLY_6_KEY && env.TOSMM_BITLY_7_KEY &&
 
 		// 客製化 command的 Google Spreadsheet的table id
 		// e.g.TOSMM_GSID_WTESTWATER="1BjRxxxxxxxxxxxxxxxxxxxxxxxxx"
