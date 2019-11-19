@@ -1,16 +1,16 @@
-./jq . ./json/tos_group_db.json > ./json/tos_group_db.jq
-rm ./json/tos_group_db.json
-cp ./json/tos_group_db.jq ./json/tos_group_db.json
-#rm tos_group_db.jq
-./jq . ./json/tos_db.json > ./json/tos_db.jq
-rm ./json/tos_db.json
-cp ./json/tos_db.jq ./json/tos_db.json
-#rm tos_db.jq
-./jq . ./json/tos_ana_db.json > ./json/tos_ana_db.jq
-rm ./json/tos_ana_db.json
-cp ./json/tos_ana_db.jq ./json/tos_ana_db.json
-#rm tos_ana_db.jq
-./jq . ./json/cc_db.json > ./json/cc_db.jq
+jq . ./json/group_db.json > ./json/group_db.jq
+rm ./json/group_db.json
+cp ./json/group_db.jq ./json/group_db.json
+#rm group_db.jq
+jq . ./json/toro_db.json > ./json/toro_db.jq
+rm ./json/toro_db.json
+cp ./json/toro_db.jq ./json/toro_db.json
+#rm toro_db.jq
+jq . ./json/user_db.json > ./json/user_db.jq
+rm ./json/user_db.json
+cp ./json/user_db.jq ./json/user_db.json
+#rm user_db.jq
+jq . ./json/cc_db.json > ./json/cc_db.jq
 rm ./json/cc_db.json
 cp ./json/cc_db.jq ./json/cc_db.json
 #rm cc_db.jq
