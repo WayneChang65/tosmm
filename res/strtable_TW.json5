@@ -75,6 +75,7 @@ https://www.facebook.com/TosMM.Linebot/",
     "um_autobaha" : "巴哈自動新訊 功能",
     "um_autotos" : "官網自動新訊 功能",
     "um_autog8g" : "G8GAME自動新訊 功能",
+    "um_level" : "TOSMM等級 功能",
     "um_usrmgr" : "USRMGR",
     "um_uidok" : "uid存在、gid不存在",
     "um_uidnok" : "uid不存在、gid不存在",
@@ -123,7 +124,8 @@ https://www.facebook.com/TosMM.Linebot/",
 12:on/off 啟閉巴哈新訊\n13:on/off 啟閉官網新訊\n\
 14:on/off 啟閉G8G新訊\n\n121:on/off 啟閉PTT自動新訊\n\
 122:on/off 啟閉巴哈自動新訊\n123:on/off 啟閉官網自動新訊\n\
-124:on/off 啟閉G8G自動新訊\n\n詳細用法可參考 ",
+124:on/off 啟閉G8G自動新訊\n131:on/off 啟閉TOSMM等級系統\
+\n\n詳細用法可參考 ",
 
     "tr_cmdlink" : "https://ppt.cc/fALMzx",
     "tr_mmlink" : "https://ppt.cc/fm5zXx",
