@@ -1,6 +1,6 @@
 {
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 index.js 所使用的字串資料         //
+//    這是 index.js 所使用的字串資料         //
 //++++++++++++++++++++++++++++++++++++++++//
     "idx_fire" : ["啟動", "水妍 Server", "Running...", "土司小妹ロボ"],
     "idx_water" : ["啟動", "火妍 Server", "Running...", "土司小妹ロボ"],
@@ -49,7 +49,7 @@ https://www.facebook.com/TosMM.Linebot/",
     "idx_notingroup" : "message-NotInAGroup",
 
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 usr_mgr.js 所使用的字串資料         //
+//  這是 usr_mgr.js 所使用的字串資料         //
 //++++++++++++++++++++++++++++++++++++++++//
     "um_json" : "JSON",
     "um_wdbok" : "Write group_db.json SUCCESS.",
@@ -75,6 +75,7 @@ https://www.facebook.com/TosMM.Linebot/",
     "um_autobaha" : "巴哈自動新訊 功能",
     "um_autotos" : "官網自動新訊 功能",
     "um_autog8g" : "G8GAME自動新訊 功能",
+    "um_level" : "TOSMM等級 功能",
     "um_usrmgr" : "USRMGR",
     "um_uidok" : "uid存在、gid不存在",
     "um_uidnok" : "uid不存在、gid不存在",
@@ -82,21 +83,21 @@ https://www.facebook.com/TosMM.Linebot/",
     "um_gnumover1000" : "總群組數超過1000!",
 
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 toro_other.js 所使用的字串資料      //
+//  這是 toro_other.js 所使用的字串資料      //
 //++++++++++++++++++++++++++++++++++++++++//
     "to_folder" : "FOLDER",
     "to_fnof" : "目錄中無任何檔案！",
     "to_toror1" : "TORO_R1",
 
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 toro_tos.js   所使用的字串資料      //
+//  這是 toro_tos.js   所使用的字串資料      //
 //++++++++++++++++++++++++++++++++++++++++//
     "ttos_error" : "ERROR",
     "ttos_ne1000" : "未加倍機率總合不等於1000",
     "ttos_dne1000" : "加倍機率總合不等於1000",
 
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 txt_react.js 所使用的字串資料       //
+//  這是 txt_react.js 所使用的字串資料       //
 //++++++++++++++++++++++++++++++++++++++++//
     "tr_mmcmd" : "\uDBC0\uDC37主人好，我是土司小妹ロボ。\n很高興為主人們服務。\n\
 冒號前的文字是您可以使用的指令關鍵字。\n目前聽得懂的指令如下：\n\
@@ -123,13 +124,14 @@ https://www.facebook.com/TosMM.Linebot/",
 12:on/off 啟閉巴哈新訊\n13:on/off 啟閉官網新訊\n\
 14:on/off 啟閉G8G新訊\n\n121:on/off 啟閉PTT自動新訊\n\
 122:on/off 啟閉巴哈自動新訊\n123:on/off 啟閉官網自動新訊\n\
-124:on/off 啟閉G8G自動新訊\n\n詳細用法可參考 ",
+124:on/off 啟閉G8G自動新訊\n131:on/off 啟閉TOSMM等級系統\
+\n\n詳細用法可參考 ",
 
     "tr_cmdlink" : "https://ppt.cc/fALMzx",
     "tr_mmlink" : "https://ppt.cc/fm5zXx",
 
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 custom_cmd.js 所使用的字串資料      //
+//  這是 custom_cmd.js 所使用的字串資料      //
 //++++++++++++++++++++++++++++++++++++++++//
     "cc_cc" : "CC",
     "cc_loaderr" : "小妹混亂中，請確認密語表唷！",
@@ -140,14 +142,14 @@ https://www.facebook.com/TosMM.Linebot/",
     "cc_autoreload_err" : "自動更新Google Spreadsheet失敗。",
 
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 crawler.js 所使用的字串資料         //
+//  這是 crawler.js 所使用的字串資料         //
 //++++++++++++++++++++++++++++++++++++++++//
     "crl_bitly" : "U-BITLY",
     "crl_bitlyerror" : "shorten function ERROR!",
     "crl_bitlylimited" : "Quota is LIMITED or ...",
 
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 crawler_handler.js 所使用的字串資料 //
+//  這是 crawler_handler.js 所使用的字串資料 //
 //++++++++++++++++++++++++++++++++++++++++//
     "ch_refresh" : "Refresh",
     "ch_tos" : "TOS-Crawler",
@@ -157,13 +159,13 @@ https://www.facebook.com/TosMM.Linebot/",
     "ch_nocmd" : "NO CMD",
 
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 crawler_tos.js     所使用的字串資料 //
+//  這是 crawler_tos.js     所使用的字串資料 //
 //++++++++++++++++++++++++++++++++++++++++//
     "ct_weekact" : "每週活動",
     "ct_checknew" : "CHECK NEW",
 
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 su_cmd.js     所使用的字串資料      //
+//  這是 su_cmd.js     所使用的字串資料      //
 //++++++++++++++++++++++++++++++++++++++++//
     "suc_wc" : "【後端Querry】\n\nw小妹計：列出抽卡統計\nw群列表：列出所有群組\n\
 w總群態：列出各群組狀態統計\n\n\
@@ -174,33 +176,51 @@ w總群態：列出各群組狀態統計\n\n\
     "suc_003" : "",
 
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 su_cmd.js     所使用的字串資料      //
+//  這是 su_cmd.js     所使用的字串資料      //
 //++++++++++++++++++++++++++++++++++++++++//
     "ca_json" : "JSON",
     "ca_wdbok" : "Write cc_db.json SUCCESS.",
 
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 scheduling.js     所使用的字串資料  //
+//  這是 scheduling.js     所使用的字串資料  //
 //++++++++++++++++++++++++++++++++++++++++//
     "sch_schedling" : "SCHEDULING",
     "sch_1st" : "第一次啟動。",
     "sch_24h" : "每24小時啟動。",
 
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 air_info.js     所使用的字串資料    //
+//  這是 air_info.js     所使用的字串資料    //
 //++++++++++++++++++++++++++++++++++++++++//
     "air_airinfo" : "AIRINFO",
     "air_getinfoerr" : "政府Open Data讀取錯誤(空氣品質)！！！",
 
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 weather_info.js   所使用的字串資料    //
+//  這是 weather_info.js   所使用的字串資料  //
 //++++++++++++++++++++++++++++++++++++++++//
     "wea_weatherinfo" : "WEATHERINFO",
     "wea_getinfoerr" : "氣象資料讀取錯誤！！！",
 
 //++++++++++++++++++++++++++++++++++++++++//
-// 這是 bug_report.js     所使用的字串資料    //
+//  這是 bug_report.js     所使用的字串資料  //
 //++++++++++++++++++++++++++++++++++++++++//
     "br_br" : "BUG REPORT",
-    "br_crash" : "系統當機了！當機了！"
+    "br_crash" : "系統當機了！當機了！",
+
+//++++++++++++++++++++++++++++++++++++++++//
+//  這是 flex_level.js     所使用的字串資料  //
+//++++++++++++++++++++++++++++++++++++++++//
+    "fl_lv0" : "通透的蛋",
+    "fl_lv1" : "海洋小靈魂石",
+    "fl_lv2" : "海洋靈魂石",
+    "fl_lv3" : "海洋千年靈魂石",
+    "fl_lv4" : "碧海萬年靈魂石",
+    "fl_lv5" : "迷你瘋頭",
+    "fl_lv6" : "瘋頭",
+    "fl_lv7" : "瘋頭源石",
+    "fl_lv8" : "金瘋頭源石",
+    "fl_lv9" : "祝願海碟",
+    "fl_lv10" : "道賀信天翁",
+
+    "fl_lvup" : "Level UP",
+    "fl_uduser": "無法取得使用者資料"
 }
