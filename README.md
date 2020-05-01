@@ -1,6 +1,6 @@
 # tosmm  
 
-![image](https://raw.githubusercontent.com/WayneChang65/tosmm/open0501/img/line_profile.png?token=AICRVFJGEYHBVUNGKCLLCZ26VOBMU)  
+![image](https://raw.githubusercontent.com/WayneChang65/tosmm/master/img/mm640.png)  
 這是一個LINE機器人([LINE](https://line.me/zh-hant/) bot)，主要提供[神魔之塔](https://towerofsaviors.com/)遊戲相關的群組服務。除此之外，也是個人在業餘為了滿足軟體工程師靈魂所打造的小玩具。  
 
 ## 前言(Overview)  
