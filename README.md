@@ -24,6 +24,9 @@
 ## 詳細的功能說明 (Feature)  
 請參考以下網站  
 [土司小妹ロボ功能介紹](http://wayne65.ap.ngrok.io/wp/%e5%9c%9f%e5%8f%b8%e5%b0%8f%e5%a6%b9%e3%83%ad%e3%83%9c%e5%8a%9f%e8%83%bd%e4%bb%8b%e7%b4%b9/)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WayneChang65/tosmm/master/img/tosmm.gif" width="30%" height="30%">
+</p>
 
 ## 安裝與執行 (Install and Run)
 * 首先在執行這個程式的使用者家目錄(Home Directiory)下，置入名為**client_secret.json**檔案。這個檔案，是針對存取Google Spreadsheet所需要的認證碼。(要到Google網站申請)  
