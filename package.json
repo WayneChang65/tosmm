@@ -1,6 +1,6 @@
 {
 	"name": "tosmm",
-	"version": "1.0.0",
+	"version": "4.0.0",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -9,6 +9,7 @@
 		"test": "jest --coverage --env=node",
 		"lint": "eslint index.js lib/**/*.js test/**/*.js"
 	},
+    "pre-commit": ["lint"],
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/WayneChang65/tosmm.git"
@@ -37,6 +38,7 @@
 	},
 	"devDependencies": {
 		"eslint": "^6.8.0",
-		"jest": "^24.8.0"
+		"jest": "^24.8.0",
+		"pre-commit": "^1.2.2"
 	}
 }
