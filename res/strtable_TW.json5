@@ -49,6 +49,16 @@ https://www.facebook.com/TosMM.Linebot/",
     "idx_notingroup" : "message-NotInAGroup",
 
 //++++++++++++++++++++++++++++++++++++++++//
+//  這是 tosmm.js          所使用的字串資料  //
+//++++++++++++++++++++++++++++++++++++++++//
+    "tosmm_sysdbsave" : "SYS DB Save!",
+    "tosmm_sysdbsave_msg" : "統計存檔 Timer ON!",
+    "tosmm_weather" : "Weather!",
+    "tosmm_weather_msg" : "今日天氣 Timer ON!",
+    "tosmm_customcmd" : "Custom CMD!",
+    "tosmm_customcmd_msg" : "客製指令 Timer ON!",
+
+//++++++++++++++++++++++++++++++++++++++++//
 //  這是 usr_mgr.js 所使用的字串資料         //
 //++++++++++++++++++++++++++++++++++++++++//
     "um_json" : "JSON",
@@ -95,6 +105,10 @@ https://www.facebook.com/TosMM.Linebot/",
     "ttos_error" : "ERROR",
     "ttos_ne1000" : "未加倍機率總合不等於1000",
     "ttos_dne1000" : "加倍機率總合不等於1000",
+    "ttos_torototal" : "總抽卡數是 ",
+    "ttos_over150" : "超過150抽，您也太黑了！",
+    "ttos_logtoro" : " 抽 - ",
+    "ttos_lograre" : " 稀有。",
 
 //++++++++++++++++++++++++++++++++++++++++//
 //  這是 txt_react.js 所使用的字串資料       //
@@ -199,10 +213,19 @@ w總群態：列出各群組狀態統計\n\n\
 //++++++++++++++++++++++++++++++++++++++++//
     "wea_weatherinfo" : "WEATHERINFO",
     "wea_getinfoerr" : "氣象資料讀取錯誤！！！",
+    "wea_mmboradcast" : "土司天氣預報-",
+    "wea_degree" : " ℃",
+    "wea_tpi" : "台北",
+    "wea_hsichu" : "新竹",
+    "wea_tch" : "台中",
+    "wea_nto" : "南投",
+    "wea_kso" : "高雄",
 
 //++++++++++++++++++++++++++++++++++++++++//
 //  這是 bug_report.js     所使用的字串資料  //
 //++++++++++++++++++++++++++++++++++++++++//
+    "br_mailtext" : 'Wayne 主人、您好。土司小妹現在有點問題，請您播空處理。謝謝您。\n\n',
+    "br_mailsubject" : 'Crash from 土司小妹-test',
     "br_br" : "BUG REPORT",
     "br_crash" : "系統當機了！當機了！",
 
