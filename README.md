@@ -6,6 +6,8 @@
 <p align="center">這是一個<b>LINE機器人</b>，主要提供<b>神魔之塔</b>遊戲相關的群組服務。</p>
 
 # tosmm  
+[![GitHub](https://img.shields.io/github/v/tag/waynechang65/tosmm)](https://github.com/WayneChang65/tosmm/releases)
+[![GitHub](https://img.shields.io/github/license/waynechang65/tosmm)](https://github.com/WayneChang65/tosmm/)
 
 這是一個LINE機器人([LINE](https://line.me/zh-hant/) bot)，主要提供[神魔之塔](https://towerofsaviors.com/)遊戲相關的群組服務。除此之外，也是個人在業餘為了滿足軟體工程師靈魂所打造的小玩具。  
 
