@@ -17,7 +17,7 @@
 		"url": "git+https://github.com/WayneChang65/tosmm.git"
 	},
 	"author": "WayneChang65",
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/WayneChang65/tosmm/issues"
 	},
