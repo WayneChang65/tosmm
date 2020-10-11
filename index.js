@@ -78,7 +78,6 @@ function chekEnvVariables() {
 		c.TOSMM_GSID_YOSEITAIL && c.TOSMM_GSID_FUGUAN &&
 		c.TOSMM_GSID_AUSHE
 	){
-		if (process.argv[2] != 'water') c.TOSMM_SU_GIDX = c.TOSMM_SU_GIDX_FIRE;
 		return true;
 	}else{
 		return false;
