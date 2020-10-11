@@ -1,5 +1,5 @@
 'use strict';
-
+const c = require('../lib/const_def.js').init();
 const usr_mgr = require('../lib/usr_mgr.js')
 	.init('../test/db/group_db.json', './test/db/group_db.json');
 
@@ -17,7 +17,7 @@ const fake_event = {
 ////////////////////////////
 describe('【Basic functions】', () => {
 	test('Test for definition of SU_GIDX', () => {
-		let SU_GIDX =  process.env.TOSMM_SU_GIDX;
+		let SU_GIDX =  c.TOSMM_SU_GIDX;
 		expect(SU_GIDX).not.toBeUndefined();
 	});
 
