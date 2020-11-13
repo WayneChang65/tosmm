@@ -171,7 +171,9 @@ https://www.facebook.com/TosMM.Linebot/",
     "ch_baha" : "BAHA-Crawler",
     "ch_g8g" : "G8G-Crawler",
     "ch_idb" : "IDB-Crawler",
+    "ch_machinery" : "MAC-Crawler",
     "ch_nocmd" : "NO CMD",
+    "ch_crawlererror" : "爬蟲資料錯誤，可能是空資料",
 
 //++++++++++++++++++++++++++++++++++++++++//
 //  這是 crawler_tos.js     所使用的字串資料 //
