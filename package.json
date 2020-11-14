@@ -34,7 +34,7 @@
 		"gm": "^1.23.1",
 		"google-spreadsheet": "^3.0.13",
 		"json5": "^2.1.3",
-		"linebot": "https://github.com/WayneChang65/linebot/tarball/1.6.0-tosmm-use-v2",
+		"linebot": "git://github.com/WayneChang65/linebot.git#mJoinLeave1114",
 		"node-datetime": "^2.1.2",
 		"nodejieba": "^2.4.1"
 	},

@@ -16,6 +16,7 @@ https://www.facebook.com/TosMM.Linebot/",
     "idx_add" : "有人加土司小妹ロボ為好友",
     "idx_mjoined" : "memberJoined",
     "idx_join" : " 加入 ",
+    "idx_leave" : " 離開 ",
     "idx_group" : " 群組",
     "idx_mleft" : "memberLeft",
     "idx_mgleft" : " 群組有人離開",
@@ -57,6 +58,8 @@ https://www.facebook.com/TosMM.Linebot/",
     "tosmm_weather_msg" : "今日天氣 Timer ON!",
     "tosmm_customcmd" : "Custom CMD!",
     "tosmm_customcmd_msg" : "客製指令 Timer ON!",
+    "tosmm_memberleft" : "memberLeft",
+    "tosmm_profile_err" : "取得 User Profile錯誤!",
 
 //++++++++++++++++++++++++++++++++++++++++//
 //  這是 usr_mgr.js 所使用的字串資料         //
