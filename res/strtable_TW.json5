@@ -27,7 +27,7 @@ https://www.facebook.com/TosMM.Linebot/",
 目前聽得懂的指令如下：\n\
 例如：小妹指令、抽...\n\n\
 \uDBC0\uDC2D目前已有的指令：\n\
-◆小妹指令：本說明\n◆土司小妹：我是誰\n\n\
+◆小妹指令：本說明\n◆土司小妹：我是誰\n◆瓶中信：給小妹的信\n\n\
 \uDBC0\uDC5F【神魔抽卡未加倍】\n\
 ◆抽卡機率：機率顯示\n◆抽：抽卡1張\n◆抽十：抽卡10張\n\
 ◆抽好抽滿：抽到滿\n\n\uDBC0\uDC5E【神魔抽卡加倍】\n\
@@ -116,7 +116,7 @@ https://www.facebook.com/TosMM.Linebot/",
     "tr_mmcmd" : "\uDBC0\uDC37主人好，我是土司小妹ロボ。\n很高興為主人們服務。\n\
 冒號前的文字是您可以使用的指令關鍵字。\n目前聽得懂的指令如下：\n\
 例如：小妹指令、抽...\n\n\uDBC0\uDC2D目前已有的指令：\n\
-◆小妹指令：本說明\n◆土司小妹：我是誰\n\n\uDBC0\uDC5F【神魔抽卡未加倍】\n\
+◆小妹指令：本說明\n◆土司小妹：我是誰\n◆瓶中信：給小妹的信\n\n\uDBC0\uDC5F【神魔抽卡未加倍】\n\
 ◆抽卡機率：機率顯示\n◆抽：抽卡1張\n◆抽十：抽卡10張\n\
 ◆抽好抽滿：抽到滿\n\n\uDBC0\uDC5E【神魔抽卡加倍】\n\
 ◆加倍機率：加倍機率\n◆加倍抽：抽卡1張\n◆加倍抽十：抽卡10張...\n\
@@ -143,6 +143,13 @@ https://www.facebook.com/TosMM.Linebot/",
 
     "tr_cmdlink" : "https://ppt.cc/fALMzx",
     "tr_mmlink" : "https://ppt.cc/fm5zXx",
+    "tr_reportexample" : "\uDBC0\uDC96主人好。\n\
+★瓶中信功能是提供一個對土司小妹ロボ的意見提供與錯誤回報機制。\n\n\
+\uDBC0\uDC2D用法：利用「瓶中信」指令，然後加上1個空格，後面接著打您要對土司小妹的意見即可。\n\n\
+\uDBC0\uDC6C範例1：瓶中信 土司小妹可否增加「抽100」的功能？感恩。\n\
+\uDBC0\uDC6C範例2：瓶中信 「week」功能目前無效，可否確認一下？謝謝。",
+    "tr_reportreact" : "感謝您提供寶貴的意見。",
+    "tr_reportuncomplete" : "未輸入完整「瓶中信」指令",
 
 //++++++++++++++++++++++++++++++++++++++++//
 //  這是 custom_cmd.js 所使用的字串資料      //
