@@ -172,6 +172,7 @@ https://www.facebook.com/TosMM.Linebot/",
 //++++++++++++++++++++++++++++++++++++++++//
 //  這是 crawler_handler.js 所使用的字串資料 //
 //++++++++++++++++++++++++++++++++++++++++//
+    "ch_init" : "Initial",
     "ch_refresh" : "Refresh",
     "ch_tos" : "TOS-Crawler",
     "ch_ptt" : "PTT-Crawler",
