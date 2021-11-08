@@ -19,7 +19,7 @@ https://www.facebook.com/TosMM.Linebot/",
     "idx_group" : " 群組",
     "idx_mleft" : "memberLeft",
     "idx_mgleft" : " 群組有人離開",
-    "idx_copyright" : "以下連結是版權及免責聲明。請詳閱後，若同意，即開始使用。\nhttps://ppt.cc/fm5zXx",
+    "idx_copyright" : "以下連結是版權及免責聲明。請詳閱後，若同意，即開始使用。\nhttps://ppt.cc/flQPvx",
     
     "idx_mmcmd" : "\uDBC0\uDC37主人好，我是土司小妹ロボ。\n\
 很高興為主人們服務。\n\
@@ -141,8 +141,8 @@ https://www.facebook.com/TosMM.Linebot/",
 124:on/off 啟閉G8G自動新訊\n131:on/off 啟閉TOSMM等級系統\
 \n\n詳細用法可參考 ",
 
-    "tr_cmdlink" : "https://ppt.cc/fALMzx",
-    "tr_mmlink" : "https://ppt.cc/fm5zXx",
+    "tr_cmdlink" : "https://ppt.cc/fKYa0x",
+    "tr_mmlink" : "https://ppt.cc/flQPvx",
     "tr_reportexample" : "\uDBC0\uDC96主人好。\n\
 ★瓶中信功能是提供一個對土司小妹ロボ的意見提供與錯誤回報機制。\n\n\
 \uDBC0\uDC2D用法：利用「瓶中信」指令，然後加上1個空格，後面接著打您要對土司小妹的意見即可。\n\n\
