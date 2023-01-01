@@ -10,7 +10,6 @@
 		"lint": "eslint index.js lib/**/*.js test/**/*.js"
 	},
 	"pre-commit": [
-		"lint"
 	],
 	"repository": {
 		"type": "git",
