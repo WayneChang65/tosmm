@@ -1,6 +1,6 @@
 {
 	"name": "tosmm",
-	"version": "6.7.4",
+	"version": "6.7.5",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -9,8 +9,7 @@
 		"test": "jest --coverage --env=node",
 		"lint": "eslint index.js lib/**/*.js test/**/*.js"
 	},
-	"pre-commit": [
-	],
+	"pre-commit": [],
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/WayneChang65/tosmm.git"
@@ -26,8 +25,8 @@
 		"@waynechang65/fml-consolelog": "^1.1.0",
 		"@waynechang65/linebot": "^1.2.2",
 		"@waynechang65/ptt-crawler": "^2.3.0",
-		"@waynechang65/unlimited-bitly": "^1.1.2",
-		"bitly": "^6.1.0",
+		"@waynechang65/unlimited-bitly": "^2.0.0",
+		"bitly": "^7.1.2",
 		"deep-extend": "^0.5.1",
 		"emailjs": "^2.2.0",
 		"express": "^4.17.1",
@@ -39,7 +38,8 @@
 		"node-datetime": "^2.1.2",
 		"node-fetch": "^2.0.0",
 		"nodejieba": "^2.4.1",
-		"puppeteer": "^18.2.1"
+		"puppeteer": "^18.2.1",
+		"request": "^2.88.2"
 	},
 	"devDependencies": {
 		"eslint": "^8.25.0",
