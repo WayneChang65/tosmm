@@ -38,7 +38,7 @@
 		"node-datetime": "^2.1.2",
 		"node-fetch": "^2.0.0",
 		"nodejieba": "^2.4.1",
-		"puppeteer": "^18.2.1",
+		"puppeteer": "^20.8.0",
 		"request": "^2.88.2"
 	},
 	"devDependencies": {
