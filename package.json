@@ -1,6 +1,6 @@
 {
 	"name": "tosmm",
-	"version": "7.0.0",
+	"version": "7.0.1",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -21,10 +21,10 @@
 	},
 	"homepage": "https://github.com/WayneChang65/tosmm#readme",
 	"dependencies": {
-		"@waynechang65/baha-crawler": "^2.2.0",
-		"@waynechang65/fml-consolelog": "^1.1.0",
+		"@waynechang65/baha-crawler": "^2.4.0",
+		"@waynechang65/fml-consolelog": "^1.1.6",
 		"@waynechang65/linebot": "^1.2.2",
-		"@waynechang65/ptt-crawler": "^2.3.0",
+		"@waynechang65/ptt-crawler": "^2.5.1",
 		"@waynechang65/unlimited-bitly": "^2.0.0",
 		"bitly": "^7.1.2",
 		"deep-extend": "^0.5.1",
@@ -37,7 +37,7 @@
 		"nanocolors": "^0.2.12",
 		"node-datetime": "^2.1.2",
 		"node-fetch": "^2.0.0",
-		"puppeteer": "^20.8.0",
+		"puppeteer": "^19.11.1",
 		"request": "^2.88.2"
 	},
 	"devDependencies": {
